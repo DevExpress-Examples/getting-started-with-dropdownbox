@@ -1,0 +1,10 @@
+<dx-drop-down-button
+    text="Sandra Johnson"
+    icon="user"
+    [items]="actions"
+    keyExpr="id"
+    displayExpr="text"
+    (onItemClick)="logAction($event)"
+    [splitButton]="true"
+    (onButtonClick)="logButtonClick()">
+</dx-drop-down-button>
