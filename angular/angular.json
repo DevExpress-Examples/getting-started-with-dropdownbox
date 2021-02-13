@@ -13,6 +13,10 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "allowedCommonJsDependencies": [
+              "devextreme",
+              "devextreme-angular"
+            ],
             "outputPath": "dist/getting-started-with-dropdownbutton",
             "index": "src/index.html",
             "main": "src/main.ts",
