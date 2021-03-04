@@ -8,6 +8,7 @@
         @item-click="logAction"
         :split-button="true"
         @button-click="logButtonClick"
+        :drop-down-options="dropDownOptions"
     />
 </template>
 
@@ -27,7 +28,10 @@ export default {
     },
     data() {
         return {
-            actions
+            actions,
+            dropDownOptions: {
+                height: 150,
+            }
         }
     },
     methods: {
