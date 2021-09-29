@@ -1,4 +1,6 @@
-# GettingStartedWithDropdownbutton
+# Getting Started with DevExtreme Angular DropDownButton
+
+This repository stores Angular source code for the [Getting Started with DropDownButton](https://js.devexpress.com/Documentation/Guide/UI_Components/DropDownButton/Getting_Started_with_DropDownButton/) tutorial.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 

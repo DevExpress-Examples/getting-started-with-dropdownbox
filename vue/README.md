@@ -1,4 +1,6 @@
-# getting-started-with-dropdownbutton
+# Getting Started with DevExtreme Vue DropDownButton
+
+This repository stores Vue source code for the [Getting Started with DropDownButton](https://js.devexpress.com/Documentation/Guide/UI_Components/DropDownButton/Getting_Started_with_DropDownButton/) tutorial.
 
 ## Project setup
 ```
