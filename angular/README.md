@@ -1,6 +1,6 @@
-# Getting Started with DevExtreme Angular DropDownButton
+# DevExtreme Angular DropDownButton - Getting Started
 
-This repository stores Angular source code for the [Getting Started with DropDownButton](https://js.devexpress.com/Documentation/Guide/UI_Components/DropDownButton/Getting_Started_with_DropDownButton/) tutorial.
+This repository stores code examples of the Angular DropDownButton component for the [Getting Started with DropDownButton](https://js.devexpress.com/Documentation/Guide/UI_Components/DropDownButton/Getting_Started_with_DropDownButton/) tutorial. The DropDownButton combines the functionality of a button and a drop-down menu. This tutorial describes how to configure a DropDownButton that logs user clicks in the browser console.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
@@ -18,12 +18,12 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute unit tests using [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute end-to-end tests using [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+For help with Angular CLI, use `ng help` or review the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
