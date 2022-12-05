@@ -1,6 +1,6 @@
-# Getting Started with DevExtreme React DropDownButton
+# DevExtreme React DropDownButton - Getting Started
 
-This repository stores React source code for the [Getting Started with DropDownButton](https://js.devexpress.com/Documentation/Guide/UI_Components/DropDownButton/Getting_Started_with_DropDownButton/) tutorial.
+This repository stores the code examples of the React DropDownButton component for the [Getting Started with DropDownButton](https://js.devexpress.com/Documentation/Guide/UI_Components/DropDownButton/Getting_Started_with_DropDownButton/) tutorial. The DropDownButton combines the functionality of a button and a drop-down menu. This tutorial describes how to configure a DropDownButton that logs user clicks in the browser console.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
